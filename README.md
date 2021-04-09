@@ -14,4 +14,4 @@
   
   - ODTÜ /İstatistik Bölümü
 
-Sunumda kullanılan R.Script dosyasına ulaşmak için **[tıklayınız]()**.
+Sunumda kullanılan R.Script dosyasına ulaşmak için **[tıklayınız](https://github.com/bkanx/RLadiesEskisehir-Webinar10/blob/main/apply.R)**.
