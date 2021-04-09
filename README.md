@@ -14,4 +14,4 @@
   
   - ODTÜ /İstatistik Bölümü
 
-Sunumda kullanılan R.Script dosyasına ulaşmak için tıklayınız. 
+Sunumda kullanılan R.Script dosyasına ulaşmak için **[tıklayınız]()**.
